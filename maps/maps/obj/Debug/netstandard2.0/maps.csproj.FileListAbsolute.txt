@@ -1,0 +1,15 @@
+C:\Users\APLICACIONES MOVILES\source\repos\maps\maps\maps\bin\Debug\netstandard2.0\maps.deps.json
+C:\Users\APLICACIONES MOVILES\source\repos\maps\maps\maps\bin\Debug\netstandard2.0\maps.dll
+C:\Users\APLICACIONES MOVILES\source\repos\maps\maps\maps\bin\Debug\netstandard2.0\ref\maps.dll
+C:\Users\APLICACIONES MOVILES\source\repos\maps\maps\maps\bin\Debug\netstandard2.0\maps.pdb
+C:\Users\APLICACIONES MOVILES\source\repos\maps\maps\maps\obj\Debug\netstandard2.0\maps.csproj.AssemblyReference.cache
+C:\Users\APLICACIONES MOVILES\source\repos\maps\maps\maps\obj\Debug\netstandard2.0\maps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\APLICACIONES MOVILES\source\repos\maps\maps\maps\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\APLICACIONES MOVILES\source\repos\maps\maps\maps\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\APLICACIONES MOVILES\source\repos\maps\maps\maps\obj\Debug\netstandard2.0\maps.AssemblyInfoInputs.cache
+C:\Users\APLICACIONES MOVILES\source\repos\maps\maps\maps\obj\Debug\netstandard2.0\maps.AssemblyInfo.cs
+C:\Users\APLICACIONES MOVILES\source\repos\maps\maps\maps\obj\Debug\netstandard2.0\maps.csproj.CoreCompileInputs.cache
+C:\Users\APLICACIONES MOVILES\source\repos\maps\maps\maps\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\APLICACIONES MOVILES\source\repos\maps\maps\maps\obj\Debug\netstandard2.0\maps.dll
+C:\Users\APLICACIONES MOVILES\source\repos\maps\maps\maps\obj\Debug\netstandard2.0\refint\maps.dll
+C:\Users\APLICACIONES MOVILES\source\repos\maps\maps\maps\obj\Debug\netstandard2.0\maps.pdb
